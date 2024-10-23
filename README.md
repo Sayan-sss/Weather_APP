@@ -21,6 +21,14 @@ Welcome to the **Weather App**! This web application provides real-time weather 
 ---
 
 ## Features
+This is a meticulously crafted weather app that leverages cutting-edge technologies. Powered by Next.js 14, TypeScript, Tailwind CSS, and the elegance of the Shadcn UI library, it delivers a seamless weather experience.✨
+
+### Current Weather Conditions
+- **Forecast**: Access a 5-day weather forecast and a 24-hour forecast at your fingertips.
+- **Intelligent Autocomplete**: Enjoy a seamless location search experience with intelligent place autocomplete suggestions.
+- **Seamless Theme Transitions**: Effortlessly switch between themes based on your preference.
+- **Interactive Map**: View weather data on an interactive map for enhanced visualization.
+
 
 - **Search for Weather**: Enter the name of any city to get real-time weather data.
 - **Real-Time Updates**: Displays current temperature, weather conditions, humidity, wind speed, and more.
